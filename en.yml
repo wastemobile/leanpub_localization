@@ -1295,8 +1295,8 @@ en:
   c_academic: "Academic"
   w_price_most_often_html: "The price which occured the most often (the mode) was <strong>%{modesfirst}</strong>."
   w_share_email_with_author:
-    one: "Also share my email address with the author, so I can be added to the author's email list!"
-    other: "Also share my email address with the authors, so they can add me to their email list!"
+    one: "Also share my email address with the author, so the author can email me directly. Also, let the author add me to their email list, if one exists."
+    other: "Also share my email address with the authors, so they can email me directly. Also, let the authors add me to their email list, if one exists."
   w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
   w_interested_long: "Here's how this works: If you use this form, Leanpub will email you exactly once when this book is first published, to let you know it's available. You have no commitment to buy the book at any price. This is just a service we provide to encourage authors and to let readers get notified when books are first published. Also, you can check the checkbox to share your email address with the author, so that they can email you directly. Also, if the author has a private email list, checking this checkbox will let them know you'd like to sign up for it."
   w_email_if_shared: "Email (if shared)"
