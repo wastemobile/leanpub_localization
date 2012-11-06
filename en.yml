@@ -567,7 +567,6 @@ en:
   w_email_my_readers: "Email My Readers!"
   w_email_new_versions: "Email me about new book releases"
   w_email_or_username: "Email or Username"
-  w_email_other_author_emails: "Include me on author emails"
   w_email_preferences: "Email Preferences"
   w_email_process_feedback: "Please email hello@leanpub.com if you have any feedback at all about this process!"
   w_email_queued: "Your email has been queued up. It may take a few minutes to get sent out. We'll email you a copy after we've sent it to all the readers, so that you know it's done."
@@ -1304,3 +1303,5 @@ en:
   w_email_if_shared: "Email (if shared)"
   w_ask_to_share_email_with_author: "Ask the reader to share their email address with you for your mailing list?"
   w_ask_to_share_email_with_author_hint: "Check this box if you have an email list and you want us to solicit email addresses of readers and potential readers for it. If you check this box, we will do the following: If your book is unpublished and you are collecting email addresses while unpublished, we will show a checkbox asking the reader to share their email address with you. If your book is published, we will ask readers to provide their email address when purchasing the book. In both cases, we'll indicate that this is for your email list. Note that in both cases these email addresses will be unverified, so you should assume there will be some people entering email addresses they do not own as a bad joke. So, please provide easy unsubscribe options."
+  w_email_other_author_emails: "Include me on author emails sent via Leanpub"
+  w_share_email_with_author_terse: "Share my email address with the author(s)"
