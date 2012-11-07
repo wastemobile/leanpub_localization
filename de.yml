@@ -161,7 +161,6 @@ de:
   e_will_email_text: "Derzeit senden wir eine E-Mail, wenn der Autor eine neue Version veröffentlicht. Um dies zu ändern, besuche bitte deine Account-Seite: %{URL}"
   e_yay: "Juhu!"
   e_you_can_download_the_book: "Du kannst das Buch als PDF, EPUB oder MOBI in deinem Dashboard herunterladen:"
-  e_you_can_purchase: "Du kannst es hier bestellen: %{URL}"
   e_you_can_see: "Das Paket findest du hier: %{bundle}"
   e_you_should_now_see: "Alle Einträge sollten im Dropbox-Ordner zu finden sein. Um Einträge zu organisieren, editieren oder zu löschen, editere die Datei Book.txt bzw. die einzelnen Inhalte."
   e_your_book_succcess_html: "Dein Buch %{book} wurde erfolgreich erstellt."
@@ -1284,3 +1283,4 @@ de:
   c_bcwriters: "BC Writers"
   c_regions: "Regions"
   c_academic: "Academic"
+  e_you_can_purchase_html: "Du kannst es hier bestellen: %{url}"

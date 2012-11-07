@@ -161,7 +161,6 @@ hu:
   e_will_email_text: "Jelenleg mi e-mailben értesítjük, ha a szerző közzéteszi új változata ez a könyv. Ennek megváltoztatásához, kérjük, látogasson el a fiók oldalon: %{URL}"
   e_yay: "Hurrá!"
   e_you_can_download_the_book: "Tudod letölt a könyvet PDF, EPUB és MOBI formátumban az Ön Leanpub műszerfalon:"
-  e_you_can_purchase: "Te is vásárolhat itt: %{URL}"
   e_you_can_see: "Láthatja a csomag az alábbi címen: %{bundle}"
   e_you_should_now_see: "Most már látni az összes álláshely a Leanpub foglalásra Dropbox mappában. átrendezéséhez, szerkesztése és törlése álláshelyek, akkor módosítsa a Book.txt fájlt, és az egyéni tartalom fájlokat."
   e_your_book_succcess_html: "A könyv %{book} keletkezett sikeresen."
@@ -1240,3 +1239,4 @@ hu:
   w_youtube_url_inline_hint: "Csak magában a vége az URL, például FcNhBa7o9pM"
   w_youtube_url_label: "YouTube videó URL"
   w_yyyy: "(YYYY / MM / DD)"
+  e_you_can_purchase_html: "Te is vásárolhat itt: %{url}"

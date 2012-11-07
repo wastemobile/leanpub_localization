@@ -158,7 +158,6 @@ es:
   e_will_email_text: "Actualmente le enviaremos un mensaje cada vez que el autor publica una nueva versión de este libro Para cambiar esto, por favor visite su página de cuenta: %{URL}"
   e_yay: "¡Sí!"
   e_you_can_download_the_book: "Se puede descargar el libro en formato PDF, EPUB y MOBI formatos en su tablero de instrumentos Leanpub:"
-  e_you_can_purchase: "Se puede comprar aquí: %{URL}"
   e_you_can_see: "Se puede ver el bulto en: %{bundle}"
   e_you_see_all_posts: "Ahora debería ver todos los mensajes en su libro carpeta Dropbox Leanpub Para volver a organizar, editar y borrar mensajes, editar el archivo Book.txt y los archivos de contenido individuales Cada vez que desee obtener una vista previa o publicar una nueva versión, sólo tiene que ir a una de "
   e_you_see_all_posts_text: "Ahora debería ver todos los mensajes en su libro carpeta Dropbox Leanpub Para volver a organizar, editar y borrar mensajes, editar el archivo Book.txt y los archivos de contenido individuales Cada vez que desee obtener una vista previa o publicar una nueva versión, sólo tiene que ir a una de %{preview} o %{publish} y haga clic en la vista previa o publicar botón."
@@ -1241,3 +1240,4 @@ es:
   w_youtube_url_inline_hint: "Sólo incluir la parte final de la URL, por ejemplo FcNhBa7o9pM"
   w_youtube_url_label: "URL del vídeo de YouTube"
   w_yyyy: "(AAAA / MM / DD)"
+  e_you_can_purchase_html: "Se puede comprar aquí: %{url}"

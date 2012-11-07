@@ -161,7 +161,6 @@ ja:
   e_will_email_text: "：%{URL}現在、著者はこの本の新バージョンを公開したときににメールでご連絡致しますこれを変更するには、アカウントページをご覧ください"
   e_yay: "イェーイ！"
   e_you_can_download_the_book: "あなたはあなたのLeanpubダッシュでPDF、EPUBとmobi形式でブックをダウンロードすることができます："
-  e_you_can_purchase: "あなたはここでそれを購入することができます：%{URL}"
   e_you_can_see: "あなたは、バンドルを見ることができます：%{bundle}"
   e_you_should_now_see: "あなたは今、あなたのLeanpub帳Dropboxフォルダ内のすべての投稿が表示されるはずの投稿を、並べ替え、編集、および削除するには、Book.txtファイルと個々のコンテンツファイルを編集します。"
   e_your_book_succcess_html: "あなたの本の%{book}が正常に生成された。"
@@ -1284,3 +1283,4 @@ ja:
   c_bcwriters: "BC Writers"
   c_regions: "Regions"
   c_academic: "Academic"
+  e_you_can_purchase_html: "あなたはここでそれを購入することができます：%{url}"

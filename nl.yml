@@ -161,7 +161,6 @@ nl:
   e_will_email_text: "Momenteel hebben we e-mailen u als de auteur publiceert een nieuwe versie van dit boek Om dit te wijzigen, gaat u naar uw conto pagina: %{URL}"
   e_yay: "Yay!"
   e_you_can_download_the_book: "Je kunt het boek downloaden in PDF, EPUB en MOBI formaten op uw Leanpub dashboard:"
-  e_you_can_purchase: "Je kunt het hier kopen: %{URL}"
   e_you_can_see: "Je kunt zien dat de bundel op: %{bundle}"
   e_you_should_now_see: "U moet nu alle berichten in uw Leanpub boek Dropbox map te zien Om te herschikken, bewerken en verwijderen berichten, bewerkt u het bestand Book.txt en de individuele bestanden met inhoud."
   e_your_book_succcess_html: "Uw boek %{book} werd met succes gegenereerd."
@@ -1240,3 +1239,4 @@ nl:
   w_youtube_url_inline_hint: "Neem alleen het uiteinde van de URL, bijvoorbeeld FcNhBa7o9pM"
   w_youtube_url_label: "YouTube Video URL"
   w_yyyy: "(YYYY / MM / DD)"
+  e_you_can_purchase_html: "Je kunt het hier kopen: %{url}"

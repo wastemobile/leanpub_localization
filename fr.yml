@@ -161,7 +161,6 @@ fr:
   e_will_email_text: "Actuellement, nous vous enverrons un email chaque fois que l'auteur publie une nouvelle version de ce livre Pour changer cela, s'il vous plaît visitez page de votre compte: %{URL}"
   e_yay: "Yay!"
   e_you_can_download_the_book: "Vous pouvez télécharger le livre en PDF, EPUB et MOBI formats à votre tableau de bord Leanpub:"
-  e_you_can_purchase: "Vous pouvez l'acheter ici: %{URL}"
   e_you_can_see: "Vous pouvez voir le faisceau à: %{bundle}"
   e_you_should_now_see: "Vous devriez maintenant voir tous les messages dans votre carnet d'Leanpub dossier Dropbox Pour réorganiser, modifier et supprimer des messages, vous devez modifier le fichier Book.txt et le contenu des fichiers individuels."
   e_your_book_succcess_html: "Votre livre %{book} été générée avec succès."
@@ -1240,3 +1239,4 @@ fr:
   w_youtube_url_inline_hint: "Inclure seulement la partie terminale de l'URL, par exemple FcNhBa7o9pM"
   w_youtube_url_label: "URL de la vidéo YouTube"
   w_yyyy: "(AAAA / MM / JJ)"
+  e_you_can_purchase_html: "Vous pouvez l'acheter ici: %{url}"
