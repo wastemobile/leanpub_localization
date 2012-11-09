@@ -732,9 +732,9 @@ fr:
   w_lang_slv: "slovène"
   w_language:
     one: "la langue"
-    other: "langages"
+    other: "langues"
   w_language_options: "Langues disponibles"
-  w_language_options_body: "Ce livre a été traduit (ou est en cours de traduction) dans les langages suivants:"
+  w_language_options_body: "Ce livre a été traduit (ou est en cours de traduction) dans les langues suivants:"
   w_last_updated: "Le livre a été mis à jour pour la dernière fois le %{updated_at}."
   w_latest_preview: "Dernière Aperçu"
   w_latest_published_version: "Dernière version publiée"
