@@ -356,7 +356,7 @@ fr:
   w_book_formats: "En achetant ce livre, vous pouvez le recevoir aux formats PDF, EPUB ou MOBI de façon à pouvoir le lire sur votre ordinateur, votre iPad, votre Kindle ou tout autre lecteur d’e-books."
   w_book_in_stealth: "Ce livre est en mode furtif."
   w_book_in_stealth_mode_message: "Ce livre est en mode furtif, ce qui signifie que si vous êtes connecté en tant que l'un de ses auteurs votre page de destination ressemblera à une page d'erreur 404 Leanpub Puisque vous êtes l'un des auteurs du livre, nous vous avons envoyé à votre livre page des paramètres de la place, puisque la recherche à une page 404 faux n'est pas très intéressante."
-  w_book_is_translation_html: "Ce livre est une traduction en %{lang} de %{orig_book}, ce qui a été écrit en %{written_in}."
+  w_book_is_translation_html: "Ce livre est une traduction en %{lang} de %{orig_book}, qui a été écrit en %{written_in}."
   w_book_language: "Langue du livre:"
   w_book_language_hint: "Cela nous aide à mettre en place les polices que nous utilisons dans votre livre Si vous écrivez avec un mélange de langues qui comprend le chinois, le japonais ou le coréen, il vous faut sélectionner le chinois, le japonais ou le coréen Si vous avez des problèmes avec. caractères ne se présentent pas bien, s'il vous plaît laissez-nous savoir à hello@leanpub.com."
   w_book_lower_case: "livre"
