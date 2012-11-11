@@ -362,7 +362,7 @@ nl:
   w_book_lower_case: "book"
   w_book_name: "Boek Name"
   w_book_no_longer_published: "Uw boek is niet meer gepubliceerd, maar dit is de laatste versie die werd gepubliceerd."
-  w_book_num_translations_html: "<em>%{orig_book}</em> is vertaald in %{num_translations} andere %{langs}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> is vertaald in %{num_translations} %{other_langs}."
   w_book_price: "Book Price"
   w_book_published_message: "Uw boek werd met succes gepubliceerd U kunt de nieuwe versie met behulp van de onderstaande links te downloaden."
   w_book_royalty: "Boek Royalty"
@@ -1240,3 +1240,6 @@ nl:
   w_youtube_url_label: "YouTube Video URL"
   w_yyyy: "(YYYY / MM / DD)"
   e_you_can_purchase_html: "Je kunt het hier kopen: %{url}"
+  w_other_language:
+    one: "andere taal"
+    other: "andere talen"

@@ -366,7 +366,7 @@ en:
   w_book_lower_case: "book"
   w_book_name: "Book Name"
   w_book_no_longer_published: "Your book is no longer published, but this is the last version which was published."
-  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} other %{langs}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} %{other_langs}."
   w_book_price: "Book Price"
   w_book_published_message: "Your book was successfully published. You can download the new version using the links below."
   w_book_royalty: "Book Royalty"
@@ -1310,3 +1310,6 @@ en:
   w_how_set_up_publisher_account: "How to set up your Publisher account on Leanpub"
   w_this_movie_explains_how_set_up_publisher_account: "This video explains how to set up your publishing company on Leanpub and take advantage of our powerful publishing workflow. With Leanpub, you can find readers before you publish, publish your author's books while they're in progress, and take advantage of our innovative ebook storefront."
   c_humor_and_satire: "Humor and Satire"
+  w_other_language:
+    one: "other language"
+    other: "other languages"

@@ -362,7 +362,7 @@ ja:
   w_book_lower_case: "本"
   w_book_name: "予約名"
   w_book_no_longer_published: "あなたの本はもう公開されていないが、これが公開された最後のバージョンです。"
-  w_book_num_translations_html: "<em>%{orig_book}</em>は他%{num_translations}%{langs}に翻訳されています。"
+  w_book_num_translations_html: "<em>%{orig_book}</em>は他%{num_translations}%{other_langs}に翻訳されています。"
   w_book_price: "予約価格"
   w_book_published_message: "あなたの本が正常に発行されたあなたは、以下のリンクを使用して、新しいバージョンをダウンロードすることができます。"
   w_book_royalty: "図書ロイヤリティー"
@@ -1284,3 +1284,6 @@ ja:
   c_regions: "Regions"
   c_academic: "Academic"
   e_you_can_purchase_html: "あなたはここでそれを購入することができます：%{url}"
+  w_other_language:
+    one: "他の言語"
+    other: "他の言語"

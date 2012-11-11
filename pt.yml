@@ -362,7 +362,7 @@ pt:
   w_book_lower_case: "O livro"
   w_book_name: "Nome do Livro"
   w_book_no_longer_published: "Seu livro não é mais publicado, mas esta é a última versão que foi publicado."
-  w_book_num_translations_html: "<em>%{orig_book}</em> foi traduzido em %{langs} outro %{num_translations}"
+  w_book_num_translations_html: "<em>%{orig_book}</em> foi traduzido em %{other_langs} %{num_translations}"
   w_book_price: "Preço do Livro"
   w_book_published_message: "Seu livro foi publicado com sucesso Você pode baixar a nova versão usando os links abaixo."
   w_book_royalty: "Royalty Livro"
@@ -1240,3 +1240,6 @@ pt:
   w_youtube_url_label: "URL do vídeo do YouTube"
   w_yyyy: "(AAAA / MM / DD)"
   e_you_can_purchase_html: "Você pode comprá-lo aqui: %{url}"
+  w_other_language:
+    one: "outra língua"
+    other: "outros idiomas"

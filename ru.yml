@@ -364,7 +364,7 @@ ru:
   w_book_lower_case: "Книга"
   w_book_name: "Название книги"
   w_book_no_longer_published: "Ваша книга не опубликована, но это последняя версия которого была опубликована."
-  w_book_num_translations_html: "<em>%{orig_book}</em> была переведена на %{num_translations} других %{langs}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> была переведена на %{num_translations} %{other_langs}."
   w_book_price: "Цена книги"
   w_book_published_message: «Ваша книга была успешно опубликована Вы можете скачать новую версию с помощью ссылки ниже."
   w_book_royalty: "Книга Royalty"
@@ -1245,3 +1245,8 @@ ru:
   w_youtube_url_label: "YouTube Video URL"
   w_yyyy: "(YYYY / MM / DD)"
   e_you_can_purchase_html: "Вы можете приобрести его здесь: %{url}"
+  w_other_language:
+    one: "другой язык"
+    few: "других языках"
+    many: "других языках"
+    other: "других языках"
