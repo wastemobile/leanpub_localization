@@ -1319,4 +1319,4 @@ en:
   w_kindle_mobi: "There are 2 ways to read the book on your Kindle:"
   w_kindle_mobi_1: "Download the MOBI file by clicking on the EPUB link, and then drag and drop it into iTunes."
   w_kindle_mobi_2: "Set your Kindle email address on the Account Settings tab. This will cause a Send to Kindle button to appear below the MOBI link, and then you can click that button to send the MOBI file to your Kindle. Note that this only works if the book is smaller that 10 MB: Leanpub books are updated often, and we don't want you to get charged by Amazon. So we only support the free send to Kindle email addresses."
-  w_thanks_buying_book: "Thanks for buying a Leanpub book! Your new purchase is highlighted in your list of purchases below..."
+  w_thanks_buying_book: "Thanks for buying a Leanpub book! Your new purchase is highlighted below..."
