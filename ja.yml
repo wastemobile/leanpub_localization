@@ -1287,3 +1287,5 @@ ja:
   w_other_language:
     one: "他の言語"
     other: "他の言語"
+  w_clicky_analytics_code_hint_html: "Optionally add your Clicky (getclicky.com) analytics code (for example \"123123\", without the quotes) here. We'll embed this in your book page and the checkout pages. If you use Clicky, this is for you!"
+  w_clicky_analytics_code_label: "Clicky Analytics Code (optional)"
