@@ -1017,7 +1017,7 @@ en:
   w_self_publish_earn_royalties: "Self-publish your in-progress book for great royalties on Leanpub"
   w_self_publish_as_you_write: "Self-publish your book as you write it, and earn great royalties!"
   w_send_kindle_instructions1: "Here are the steps to get your books to show up on your Kindle:"
-  w_send_kindle_instructions2: "1) Go to Amazon and let them know that it's okay for us to send things to your Kindle."
+  w_send_kindle_instructions2: "1) Go to Amazon and let them know that it's okay for us to send things to your Kindle. If you do not do this, our email to you will bounce!"
   w_send_kindle_instructions3: "2) Give us your Kindle's email address."
   w_send_kindle_instructions4: "4) Click the \"Send to Kindle\" button next to your book. Voila!"
   w_send_to_kindle: "Send to Kindle"
