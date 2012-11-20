@@ -1320,3 +1320,6 @@ en:
   w_thanks_buying_book: "Thanks for buying a Leanpub book! Your new purchase is highlighted below..."
   w_email_preferences: "Email Settings"
   w_edit_account: "Account Settings"
+  w_print: "Print"
+  w_print_my_book: "Produce a Print-Ready PDF of My Book!"
+  w_print_my_book_text: "Click this button below to produce a print-ready PDF of your book. You can do this as often as you like; the fee is once per book. When the print-ready PDF is done generating it will be in the published folder in a file called: %{slug}-print-ready.pdf"
