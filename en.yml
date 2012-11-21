@@ -1325,3 +1325,4 @@ en:
   w_print_my_book_text: "Click this button below to produce a print-ready PDF of your book. You can do this as often as you like; the fee is once per book. When the print-ready PDF is done generating it will be in the published folder in a file called: %{slug}-print-ready.pdf"
   w_new_print_ready_pdf_being_generated_message: "A new print-ready PDF version of your book is being generated. We will send you an email when it's ready."
   w_new_print_ready_pdf_was_generated_message: "A new print-ready PDF version of your book has been generated. It is in your published folder as %{filename}."
+  w_print_ready_signup: "Enable Print-Ready PDF Production! ($49, Subtracted From Royalties)"
