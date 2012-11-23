@@ -1327,3 +1327,4 @@ en:
   w_new_print_ready_pdf_was_generated_message: "A new print-ready PDF version of your book has been generated. It is in your published folder as %{filename}."
   w_print_ready_signup: "Enable Print-Ready PDF Production! ($49, Subtracted From Royalties)"
   e_print_pdf_success: "Your print-ready Leanpub PDF has been successfully generated! It is in your Dropbox in the published subfolder of your %{slug} folder."
+  e_generate_site_success: "Your book website has been successfully generated! It is in your Dropbox in the site subfolder of your %{slug} folder."
