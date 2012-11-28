@@ -1329,3 +1329,5 @@ en:
   e_print_pdf_success: "Your print-ready Leanpub PDF has been successfully generated! It is in your Dropbox in the published subfolder of your %{slug} folder."
   e_generate_site_success: "Your book website has been successfully generated! It is in your Dropbox in the site subfolder of your %{slug} folder."
   w_lang_spa: "Spanish"
+  w_q_does_support_erotica_fanfic: "Does Leanpub accept Erotica and Fan Fiction?"
+  w_a_does_support_erotica_fanfic: "Yes, we do, though there are some special rules, which you can read below. If these rules are too onerous for you or you have any questions, please let us know."
