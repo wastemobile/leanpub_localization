@@ -1328,3 +1328,4 @@ en:
   w_print_ready_signup: "Enable Print-Ready PDF Production! ($49, Subtracted From Royalties)"
   e_print_pdf_success: "Your print-ready Leanpub PDF has been successfully generated! It is in your Dropbox in the published subfolder of your %{slug} folder."
   e_generate_site_success: "Your book website has been successfully generated! It is in your Dropbox in the site subfolder of your %{slug} folder."
+  w_lang_spa: "Spanish"
