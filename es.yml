@@ -720,6 +720,7 @@ es:
   w_just_the_bare: "Sólo el desnudo HTML"
   w_kindle_mobi: "Para leer el libro en su Kindle, puede descargar el enlace MOBI También puede configurar su dirección de correo electrónico Kindle a continuación, lo que provocará un botón Enviar a Kindle para aparecer junto al botón Enviar a Readmill, y entonces usted puede utilizar. el botón Enviar a Kindle también."
   w_landing_page: "página de destino"
+  w_lang_spa: "español"
   w_lang_dut: "holandés"
   w_lang_eng: "Inglés"
   w_lang_fre: "French"
@@ -1244,4 +1245,3 @@ es:
   w_other_language:
     one: "otro lenguaje"
     other: "otros idiomas"
-  w_lang_spa: "español"
