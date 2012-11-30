@@ -1295,3 +1295,5 @@ ja:
   w_if_no_visa_masetercard: "あなたのクレジットカードは、ビザまたはマスターカードではない場合でも、PayPalを使ってこの本を購入することができます。ちょうど上記の黄色いボタンをクリックしてください。"
   w_q_can_md_extension: "Can I use files that have extensions besides .txt, such as .md?"
   w_a_can_md_extension: "You can use any extension you want (or no extension). As a policy we suggest authors use .txt files so they open easily when double-clicked."
+  w_q_reviewing: "Can I use Leanpub PDFs as part of the editing/reviewing process for my book?"
+  w_a_reviewing: "Yes, you can. There are a number of PDF editors available. For example, in Preview on the Mac, your editors & reviewers can use the \"Annotate -> Add Note\" feature to add notes to your Leanpub-generated PDF."

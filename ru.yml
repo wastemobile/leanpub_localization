@@ -1256,3 +1256,5 @@ ru:
   w_if_no_visa_masetercard: "Если ваша кредитная карта не является Visa или Mastercard, вы все еще можете купить эту книгу с помощью PayPal. Просто нажмите на желтую кнопку выше."
   w_q_can_md_extension: "Могу ли я использовать файлы с расширениями, кроме TXT, такие, как мкр?"
   w_a_can_md_extension: "Вы можете использовать любое расширение, которое вы хотите (или без расширения) В политике мы предлагаем авторы используют текстовые файлы, чтобы они легко открываются при двойном щелчке."
+  w_q_reviewing: "Могу ли я использовать Leanpub PDF-файлы как часть редактирование / рассмотрении процесса для моей книги?"
+  w_a_reviewing: "Yes, you can. There are a number of PDF editors available. For example, in Preview on the Mac, your editors & reviewers can use the \"Annotate -> Add Note\" feature to add notes to your Leanpub-generated PDF."

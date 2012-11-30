@@ -1249,3 +1249,5 @@ nl:
   w_if_no_visa_masetercard: "Als uw creditcard is niet een Visa of een Mastercard, kunt u nog steeds kopen dit boek via PayPal. Klik gewoon op de gele knop hierboven."
   w_q_can_md_extension: "Kan ik bestanden die extensies naast hebben .txt, zoals .md?"
   w_a_can_md_extension: "Je kunt elke extensie die u wilt (of geen extensie) Het is het beleid stellen we voor auteurs gebruiken txt-bestanden, zodat ze gemakkelijk open indien u voor dubbel-geklikt."
+  w_q_reviewing: "Kan ik Leanpub PDF gebruiken als onderdeel van de te bewerken / herzien proces voor mijn boek?"
+  w_a_reviewing: "Ja, dat kan Er zijn een aantal PDF-editors beschikbaar Bijvoorbeeld, in Voorvertoning op de Mac, uw editors en reviewers kunt de gebruiken \"Annotate -> Opmerking toevoegen \" functie om notities toe te voegen aan uw Leanpub-gegenereerde PDF. "

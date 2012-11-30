@@ -1249,3 +1249,5 @@ fr:
   w_if_no_visa_masetercard: "Si votre carte de crédit n'est pas une carte Visa ou une Mastercard, vous pouvez toujours acheter ce livre en utilisant PayPal. Il suffit de cliquer sur le bouton jaune ci-dessus."
   w_q_can_md_extension: "Puis-je utiliser des fichiers qui ont des extensions en dehors 'txt, comme .md?"
   w_a_can_md_extension: "Vous pouvez utiliser n'importe quelle extension que vous souhaitez (ou sans extension) En tant que politiques, nous suggérons auteurs utilisent des fichiers .txt pour les ouvrir facilement quand on double-clique dessus."
+  w_q_reviewing: "Puis-je utiliser des fichiers PDF Leanpub dans le cadre de l'édition / révision processus de mon livre?"
+  w_a_reviewing: "Yes, you can Il ya un certain nombre d'éditeurs de PDF que vous pouvez, par exemple, dans Aperçu sur le Mac, vos rédacteurs et les réviseurs peuvent utiliser le \"Annoter -> Ajouter une note\" option pour ajouter des notes à votre Leanpub-PDF généré. "

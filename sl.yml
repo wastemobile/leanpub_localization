@@ -1248,3 +1248,5 @@ sl:
   w_if_no_visa_masetercard: "Če je vaša kreditna kartica ni Visa ali Mastercard, lahko še vedno kupite to knjigo z PayPal. Samo kliknite na rumeno zgornji gumb."
   w_q_can_md_extension: "Ali lahko uporabim datoteke, ki imajo poleg razširitve .txt, kot sta .md?"
   w_a_can_md_extension: "Lahko uporabite kakršnokoli končnico, ki jo želite (ali brez razširitev), kot politika priporočamo avtorji uporabljajo .txt datoteke, tako da se brez težav odprejo, ko z dvojnim klikom."
+  w_q_reviewing: "Ali lahko uporabim Leanpub PDF kot del urejanje / pregled postopek za mojo knjigo?"
+  w_a_reviewing: "Da, lahko obstajajo številni PDF uredniki so na voljo, na primer, v predogledu na Mac, lahko vaše uredniki in ocenjevalci uporabite \" hvali -> Dodaj Opomba \" funkcijo za dodajanje opombe k svojim Leanpub-ustvarila PDF."

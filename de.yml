@@ -1295,3 +1295,5 @@ de:
   w_if_no_visa_masetercard: "Wenn Sie Ihre Kreditkarte ist keine Visa oder Mastercard, können Sie immer noch kaufen Sie dieses Buch mit PayPal. Nur auf den gelben Button oben klicken."
   w_q_can_md_extension: "Kann ich Dateien, deren Erweiterungen neben haben .txt, wie .md?"
   w_a_can_md_extension: "Man kann eine beliebige Erweiterung verwenden möchten (oder ohne Erweiterung) Als eine Politik empfehlen wir Autoren verwenden txt-Dateien, so dass sie leicht, wenn doppelt geklickt öffnen."
+  w_q_reviewing: "Kann ich Leanpub PDFs als Teil der Datei / Review-Prozess für mein Buch?"
+  w_a_reviewing: "Yes, you can Es gibt eine Reihe von PDF-Editoren zur Verfügung zum Beispiel in der Vorschau auf dem Mac, Ihre Redakteure & Rezensenten können die verwenden \" Annotate -> Notiz hinzufügen \"-Funktion, um Notizen zu Ihrem hinzuzufügen Leanpub-generiert PDF. "

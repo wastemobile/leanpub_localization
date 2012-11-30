@@ -1255,3 +1255,5 @@ ro:
   w_if_no_visa_masetercard: "În cazul în care cardul dvs. de credit nu este o Visa sau Mastercard o, puteți cumpăra încă această carte prin PayPal. Doar să faceți clic pe butonul galben de mai sus."
   w_q_can_md_extension: "Pot folosi fișierele care au extensiile pe langa .txt, cum ar fi .md?"
   w_a_can_md_extension: "Aveți posibilitatea să utilizați orice extensie doriti (sau nici o prelungire) Ca o politică sugerăm autorilor folosi .txt astfel încât acestea să poată fi deschise ușor atunci când dublu-clic."
+  w_q_reviewing: "Pot utiliza PDF-uri Leanpub, ca parte a editării / revizuirea procesului pentru cartea mea?"
+  w_a_reviewing: "Da, poți Există un număr de editori PDF disponibile De exemplu, în Examinare pe Mac, editorii dvs. si comentatorii se poate folosi \"Annotate -> Add Nota \" caracteristică pentru a adăuga note de dvs. Leanpub-PDF generat."
