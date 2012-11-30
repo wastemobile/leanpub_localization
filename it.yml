@@ -1245,3 +1245,5 @@ it:
   w_q_does_support_erotica_fanfic: "Ha Leanpub accettare Erotica e Fan Fiction?"
   w_a_does_support_erotica_fanfic: "Sì, lo facciamo, anche se ci sono alcune regole speciali, che potete leggere qui sotto. Se queste regole sono troppo onerosi per voi o avete domande, vi preghiamo di farcelo sapere."
   w_if_no_visa_masetercard: "Se la vostra carta di credito non è una Visa o una Mastercard, è ancora possibile acquistare questo libro tramite PayPal. Basta cliccare sul pulsante giallo sopra."
+  w_q_can_md_extension: "Posso usare file con estensioni oltre a .txt, come .md?"
+  w_a_can_md_extension: "È possibile utilizzare qualsiasi estensione che si desidera (o senza estensione) In politica si consiglia autori usano i file .txt in modo da aprire facilmente quando si fa doppio clic."

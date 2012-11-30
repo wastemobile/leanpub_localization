@@ -1293,3 +1293,5 @@ ja:
   w_q_does_support_erotica_fanfic: "Leanpubはエロティカとファンフィクションを認めるか？"
   w_a_does_support_erotica_fanfic: "はい、私たちが行うには、以下をお読みすることができますいくつかの特別な規則が、ありますが。これらのルールはあなたのためにあまりにも面倒な場合、またはご質問がございましたら、ご一報ください。"
   w_if_no_visa_masetercard: "あなたのクレジットカードは、ビザまたはマスターカードではない場合でも、PayPalを使ってこの本を購入することができます。ちょうど上記の黄色いボタンをクリックしてください。"
+  w_q_can_md_extension: "Can I use files that have extensions besides .txt, such as .md?"
+  w_a_can_md_extension: "You can use any extension you want (or no extension). As a policy we suggest authors use .txt files so they open easily when double-clicked."

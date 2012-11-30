@@ -1247,3 +1247,5 @@ hu:
   w_q_does_support_erotica_fanfic: "Vajon Leanpub Elfogadom Erotika és Fan Fiction?"
   w_a_does_support_erotica_fanfic: "Igen, igen, bár van néhány különleges szabályokat, amelyek el tudja olvasni az alábbiakban. Ha ezek a szabályok túl megterhelő az Ön számára, vagy ha bármilyen kérdése van, kérjük ossza meg velünk."
   w_if_no_visa_masetercard: "Ha a hitelkártya nem Visa vagy Mastercard, akkor is vásárolni ezt a könyvet a PayPal. Csak kattints a sárga gombra."
+  w_q_can_md_extension: "Használhatom fájlokat, melyek kiterjesztése mellett .txt, mint pl .md?"
+  w_a_can_md_extension: "Te is használja a kiterjesztést akarsz (vagy nem meghosszabbítható). Mint politikai javasoljuk szerzők .txt fájlokat, hogy azok könnyen nyithatók, ha kétszer rákattint."
