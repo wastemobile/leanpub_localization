@@ -590,7 +590,7 @@ en:
     other: "Errors"
   w_error_adding_book_to_bundle: "There was an error adding the book to bundle."
   w_errors_prevented_save_changes: "%{errors} prevented your changes from being saved:"
-  w_every_kindle_email_html: "Every Kindle has an email address. You can find yours by going to your %{personal_settings} on Amazon. It will be something like \"your.name@kindle.com\". Enter the \"your.name\" part in the input below."
+  w_every_kindle_email_html: "Every Kindle has an email address. You can find yours by going to your %{personal_settings} on Amazon. It will be something like \"your.name@kindle.com\". Enter the \"your.name\" part here."
   w_export: "Export"
   w_fanfic_category_rules_li1: "Fan Fiction books must have a $0 minimum price and a $0 suggested price."
   w_fanfic_category_rules_li2: "Fan Fiction books must identify the original work(s) upon which they are based."
