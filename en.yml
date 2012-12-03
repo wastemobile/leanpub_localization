@@ -306,7 +306,7 @@ en:
   w_allow_send_email: "Allow Leanpub to send me email related to my book purchases"
   w_already_confirmed_sign_in: "Already confirmed email. Please sign in."
   w_already_have_account_html: "Already have a Leanpub account? %{signin} to use the username you already have."
-  w_alt_arrangements: "Unless you've made alternative arrangements with us, we'll pay your book royalties by PayPal to the following email address(es):"
+  w_alt_arrangements: "We'll pay your book royalties by PayPal to the following email address(es):"
   w_an_html: "An HTML version of your book is being generated."
   w_and: "and"
   w_anonymous: "Anonymous"
