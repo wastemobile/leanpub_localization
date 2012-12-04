@@ -1142,6 +1142,8 @@ en:
   w_translated_from_label: "Translated From (optional)"
   w_try_leanpub: "Try Leanpub!"
   w_tweet_text: "Read %{title}"
+  w_tweet_just_bought_text: "I just bought %{title}"
+  w_tweet_just_bought_bundle_text: "I just bought the %{title} bundle"
   w_twitter: "Twitter"
   w_twitter_id: "Twitter ID"
   w_unit: "Unit"
