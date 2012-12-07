@@ -1089,7 +1089,7 @@ en:
   w_temporarily_suspended_text: "This coupon is temporarily suspended"
   w_terms_of_service: "Terms of Service"
   w_text_prospective_readers: "(This text will be included in the email to your prospective readers)"
-  w_thank_you_payment: "Thank you for your payment. Your transaction has been completed, and a receipt for your purchase has been emailed to you. The email contains download links for your book, or you can just use the ones below"
+  w_thank_you_payment: "Thank you for your payment. Your transaction has been completed, and we've sent you an email. The email contains download links for your book, or you can just use the ones below."
   w_thank_you_reader: "Thank you for being a Leanpub reader!"
   w_thanks: "Thanks"
   w_thanks_buying_bundle: "Thanks for buying a bundle on Leanpub!"
