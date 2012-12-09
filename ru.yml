@@ -1258,3 +1258,5 @@ ru:
   w_a_can_md_extension: "Вы можете использовать любое расширение, которое вы хотите (или без расширения) В политике мы предлагаем авторы используют текстовые файлы, чтобы они легко открываются при двойном щелчке."
   w_q_reviewing: "Могу ли я использовать Leanpub PDF-файлы как часть редактирование / рассмотрении процесса для моей книги?"
   w_a_reviewing: "Yes, you can. There are a number of PDF editors available. For example, in Preview on the Mac, your editors & reviewers can use the \"Annotate -> Add Note\" feature to add notes to your Leanpub-generated PDF."
+  w_percent_done_html: "По мнению автора этой книги, примерно на <strong>%{percent_complete}%</strong>!"
+  w_book_is_done_html: "По мнению автора этой книги, чтобы сделать!"

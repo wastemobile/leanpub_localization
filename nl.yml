@@ -1251,3 +1251,5 @@ nl:
   w_a_can_md_extension: "Je kunt elke extensie die u wilt (of geen extensie) Het is het beleid stellen we voor auteurs gebruiken txt-bestanden, zodat ze gemakkelijk open indien u voor dubbel-geklikt."
   w_q_reviewing: "Kan ik Leanpub PDF gebruiken als onderdeel van de te bewerken / herzien proces voor mijn boek?"
   w_a_reviewing: "Ja, dat kan Er zijn een aantal PDF-editors beschikbaar Bijvoorbeeld, in Voorvertoning op de Mac, uw editors en reviewers kunt de gebruiken \"Annotate -> Opmerking toevoegen \" functie om notities toe te voegen aan uw Leanpub-gegenereerde PDF. "
+  w_percent_done_html: "De auteur beschouwt dit boek op ongeveer <strong>%{percent_complete}%</strong> compleet!"
+  w_book_is_done_html: "De auteur beschouwt dit boek <strong>te doen</strong>!"
