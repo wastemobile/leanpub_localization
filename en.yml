@@ -1052,6 +1052,7 @@ en:
   w_sorry_book_has_purchases: "I'm sorry, but that book has purchases. We are unable to delete it."
   w_sorry_bother: "We're sorry for bothering you."
   w_sorry_no_book: "I'm sorry, but that book does not exist." 
+  w_sorry_no_publisher: "I'm sorry, but that publisher does not exist."
   w_sorry_no_bundle: "I'm sorry, but that bundle does not exist"
   w_sorry_only_primary_author_message: "I'm sorry, but only the primary author can delete the book."
   w_sorry_you_go_message: "We're sorry to see you go."
