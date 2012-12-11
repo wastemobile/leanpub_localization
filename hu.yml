@@ -1251,3 +1251,6 @@ hu:
   w_a_can_md_extension: "Te is használja a kiterjesztést akarsz (vagy nem meghosszabbítható). Mint politikai javasoljuk szerzők .txt fájlokat, hogy azok könnyen nyithatók, ha kétszer rákattint."
   w_q_reviewing: "Használhatom Leanpub PDF-fájlok részeként a szerkesztési / felülvizsgálata eljárás könyvem?"
   w_a_reviewing: "Igen, lehet. Számos PDF szerkesztők rendelkezésre. Például a Preview a Mac, a szerkesztők és vendég használhatja a \" Annotate -> Megjegyzés hozzáadása\" funkcióval jegyzeteket a Leanpub-generált PDF. "
+  w_percent_done_html: "A szerző úgy véli, ezt a könyvet, hogy mintegy <strong>%{percent_complete}%</strong>-a teljes!"
+  w_book_is_done_html: "A szerző úgy véli, ezt a könyvet kell tenni!"
+

@@ -1297,3 +1297,5 @@ de:
   w_a_can_md_extension: "Man kann eine beliebige Erweiterung verwenden möchten (oder ohne Erweiterung) Als eine Politik empfehlen wir Autoren verwenden txt-Dateien, so dass sie leicht, wenn doppelt geklickt öffnen."
   w_q_reviewing: "Kann ich Leanpub PDFs als Teil der Datei / Review-Prozess für mein Buch?"
   w_a_reviewing: "Yes, you can Es gibt eine Reihe von PDF-Editoren zur Verfügung zum Beispiel in der Vorschau auf dem Mac, Ihre Redakteure & Rezensenten können die verwenden \" Annotate -> Notiz hinzufügen \"-Funktion, um Notizen zu Ihrem hinzuzufügen Leanpub-generiert PDF. "
+  w_percent_done_html: "Der Autor betrachtet dieses Buch zu etwa <strong>%{percent_complete}%</strong> abgeschlossen!"
+  w_book_is_done_html: "Der Autor betrachtet dieses Buch <strong>zu tun</strong>!"

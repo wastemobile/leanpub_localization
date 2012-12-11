@@ -40,6 +40,8 @@ es:
   w_verification_value_hint: "La seguridad de la tarjeta de código (CSC) es un número de 3-4 dígitos impreso en el reverso de su tarjeta de crédito."
   w_you_pay: "Usted paga"
   w_youre_buying: "Usted va a comprar"
+  w_percent_done_html: "El autor considera que este libro es un <strong>%{percent_complete}%</strong> completo!"
+  w_book_is_done_html: "El autor considera este libro <strong>para hacer!</strong>!"
 #####################################
 # AUTHOR APP
 #####################################
