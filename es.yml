@@ -1029,7 +1029,6 @@ es:
   w_share_book: "Comparte este libro"
   w_show: "Show"
   w_show_also_by: "Mostrar una lista de 'También por« en el libro? "
-  w_show_also_by_hint_html: "Si se marca esta casilla, se añade una página en la parte delantera de su libro que enumera todos los otros libros que he publicado en Leanpub bajo el título 'también por %{name}', con enlaces a ellos Si su libro es co- autores, vamos a añadir listas para ellos también. La lista sólo mostrará una lista de libros publicados Leanpub no, vistas previas. Te recomendamos que seleccione esta opción si no han publicado libros que no desea hacer la promoción por alguna razón."
   w_show_category: "Show Categoría:"
   w_show_comments_hint: "Si se marca esta casilla, se muestra un formulario en la página de destino de su libro, que permite a cualquier persona con una cuenta la Observación Disqus en su libro, al igual que lo haría comentarios en un blog Esto puede ser útil, ya que promueve la comunidad alrededor. su libro: lectores pueden suscribirse a los comentarios Disqus por correo electrónico, etc, para que pueda tener una discusión próspera Para un ejemplo de lo que los comentarios Disqus parecer, consulte <a href = \"https://leanpub.com/fp-oo \">this Leanpub book</a>. Te recomendamos que dejes esto."
   w_show_comments_label: "Mostrar el widget comentarios Disqus en la página principal de tu libro?"
@@ -1254,3 +1253,7 @@ es:
   w_a_can_md_extension: "Se puede utilizar cualquier extensión que desee (o sin extensión) Como política sugerimos autores utilizan .txt por lo que se abren fácilmente al hacer doble clic en él."
   w_q_reviewing: "¿Puedo usar archivos PDF Leanpub como parte de la edición / revisión de proceso para mi libro?"
   w_a_reviewing: "Sí, se puede Hay una serie de editores disponibles en PDF, por ejemplo, en la vista previa en el Mac, los editores y revisores puede usar el \"Anotar -> Agregar nota \" para agregar notas a su Leanpub-PDF generado ".
+  w_also_by_the_author: "Also by the Author"
+  w_also_by_the_authors: "Also by the Authors"
+  w_also_by_the_editor: "Also by the Editor"
+  w_also_by_the_editors: "Also by the Editors"

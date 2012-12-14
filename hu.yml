@@ -1025,7 +1025,6 @@ hu:
   w_share_book: "Oszd meg ezt a könyvet"
   w_show: "Show"
   w_show_also_by: "Mutasd az is lista a Könyv?"
-  w_show_also_by_hint_html: "Ha bejelöli ezt az opciót, akkor adjunk hozzá egy oldal közelében előtt a könyv, amely felsorolja az összes többi könyv már megjelent Leanpub cím alapján is %{name} a linkeket a számukra. Amennyiben a könyvet együtt szerzők, mi adjuk listák őket is. A lista csak a lista megjelent Leanpub könyvet, nem előnézetét. Javasoljuk, hogy ezt a lehetőséget választja, kivéve, ha könyveket nem akarsz előmozdítására valamilyen oknál fogva."
   w_show_category: "Mutasd Kategória:"
   w_show_comments_hint: "Ha bejelöli ezt az opciót, akkor mutat egy űrlapot a könyv céloldalán amely lehetővé teszi bárki egy Disqus fiókot megjegyzést a könyv, ugyanúgy, mint azok megjegyzést egy blogbejegyzést. Ez akkor lehet hasznos, hiszen elősegíti a közösség körül a könyv: az olvasók feliratkozhatnak a Disqus észrevételeket e-mail, stb, így egy virágzó beszélgetést. Példaként milyen Disqus hozzászólások néz, lásd <a href=\"https://leanpub.com/fp-oo\">this Leanpub book</a>. Javasoljuk, hogy hagyja ezt."
   w_show_comments_label: "Mutasd a Disqus Comments widget a könyv honlapján?"
@@ -1253,4 +1252,7 @@ hu:
   w_a_reviewing: "Igen, lehet. Számos PDF szerkesztők rendelkezésre. Például a Preview a Mac, a szerkesztők és vendég használhatja a \" Annotate -> Megjegyzés hozzáadása\" funkcióval jegyzeteket a Leanpub-generált PDF. "
   w_percent_done_html: "A szerző úgy véli, ezt a könyvet, hogy mintegy <strong>%{percent_complete}%</strong>-a teljes!"
   w_book_is_done_html: "A szerző úgy véli, ezt a könyvet kell tenni!"
-
+  w_also_by_the_author: "Also by the Author"
+  w_also_by_the_authors: "Also by the Authors"
+  w_also_by_the_editor: "Also by the Editor"
+  w_also_by_the_editors: "Also by the Editors"
