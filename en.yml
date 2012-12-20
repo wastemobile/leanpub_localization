@@ -35,7 +35,7 @@ en:
   w_number: "Number"
   w_or_click_to: "or click to"
   w_pay_by_credit_card: "Pay By Credit Card"
-  w_pay_by_credit_card_or_click_to_html: "Pay By Credit Card <small class=\"option\">or click to %{paypal}</small>"
+  w_pay_by_credit_card_or_click_to_html: "Pay By Credit Card <small class=\"option\">or click to &nbsp;&nbsp;&nbsp;&nbsp; %{paypal}</small>"
   w_please_wait: "Please wait…"
   w_total: "Total"
   w_type_own_amount_click: "Click to type in your own amount"
