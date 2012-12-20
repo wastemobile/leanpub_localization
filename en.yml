@@ -29,6 +29,7 @@ en:
   w_last_name: "Last name"
   w_library_note: "Library purchasing agents: This book is in-progress, and the author has requested that it not be purchased by libraries yet."
   w_multiple_explanation: "You can buy multiple copies of a book if you want to share it with friends or coworkers. If you're buying multiple copies, the sliders above show what you pay and what the author earns for each copy."
+  w_gift_checkbox_note_html: "The recipient will be able to download the book in PDF, EPUB and MOBI without signing up to Leanpub, and they will also be able to sign up to get free updates. Give a sustainable gift this holiday season!<br/><br/>Note that if you are buying multiple copies, you don't make the purchase a gift here. Instead, just buy the multiple copies for yourself, and then give away individual copies of your multiple-copy purchase from your dashboard after the purchase is complete."
   w_name_price_html: "Name Your Price <small>(USD)</small>"
   w_number: "Number"
   w_or_click_to: "or click to"
