@@ -60,7 +60,7 @@ sl:
   w_get_my_free_bundle: "Prenesite svoj ​​prosti snop"
   w_give_as_a_gift: "Daj kot darilo!"
   w_grand_total: "Končna cena"
-  w_if_no_visa_masetercard: "Če je vaša kreditna kartica ni Visa ali Mastercard, lahko še vedno kupite to knjigo z PayPal. Samo kliknite na rumeno zgornji gumb."
+  w_if_no_visa_mastercard: "Če je vaša kreditna kartica ni Visa ali Mastercard, lahko še vedno kupite to knjigo z PayPal. Samo kliknite na rumeno zgornji gumb."
   w_interested_in_book: "Zanima me v tej knjigi Spodbujanje avtorja z vnosom svoje ime, elektronski naslov in koliko boš verjetno plačali za ebook, ko je objavljena?"
   w_lang_dut: "nizozemski"
   w_lang_eng: "angleško"

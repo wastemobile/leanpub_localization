@@ -60,7 +60,7 @@ it:
   w_get_my_free_bundle: "Prendi il mio collezione gratis"
   w_give_as_a_gift: "Date come regalo!"
   w_grand_total: "Totale complessivo"
-  w_if_no_visa_masetercard: "Se la vostra carta di credito non è una Visa o una Mastercard, è ancora possibile acquistare questo libro tramite PayPal. Basta cliccare sul pulsante giallo sopra."
+  w_if_no_visa_mastercard: "Se la vostra carta di credito non è una Visa o una Mastercard, è ancora possibile acquistare questo libro tramite PayPal. Basta cliccare sul pulsante giallo sopra."
   w_interested_in_book: "Ti interessa questo libro Incoraggiare l'autore inserendo il vostro nome, indirizzo email, e quanto ci si potrebbe pagare per l'ebook quando è stata pubblicata?"
   w_lang_dut: "olandese"
   w_lang_eng: "inglese"

@@ -60,7 +60,7 @@ hu:
   w_get_my_free_bundle: "hogy ingyenes csomag"
   w_give_as_a_gift: "Adj egy ajándék!"
   w_grand_total: "Végösszeg"
-  w_if_no_visa_masetercard: "Ha a hitelkártya nem Visa vagy Mastercard, akkor is vásárolni ezt a könyvet a PayPal. Csak kattints a sárga gombra."
+  w_if_no_visa_mastercard: "Ha a hitelkártya nem Visa vagy Mastercard, akkor is vásárolni ezt a könyvet a PayPal. Csak kattints a sárga gombra."
   w_interested_in_book: "Érdekel ez a könyv? Ösztönözni kell a szerző beírja a nevét, e-mail címét, és mennyit akarsz valószínűleg fizetni az ebook, ha ez megjelent."
   w_lang_dut: "Dutch"
   w_lang_eng: "English"
