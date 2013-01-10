@@ -5,6 +5,18 @@
 # 2 letter code = it. 3 letter code = ita.
 ###
 it:
+  w_author_earns:
+    one: "Autore guadagna"
+    other: "Autori guadagnare"
+  w_language:
+    one: "linguaggio"
+    other: "lingue"
+  w_share_email_with_author:
+    one: "Anche condividere il mio indirizzo e-mail con l'autore."
+    other: "Anche condividere il mio indirizzo e-mail con gli autori."
+############################################
+# With plurals above, without plurals below.
+############################################
   w_about_author: "Sull'autore"
   w_about_authors: "Sull'autori"
   w_about_book: "Sul libro"
@@ -15,9 +27,6 @@ it:
   w_also_by_the_editor: "Anche per l'editor"
   w_also_by_the_editors: "anche dalla redazione"
   w_and_min_price: "e il prezzo minimo è"
-  w_author_earns:
-    one: "Autore guadagna"
-    other: "Autori guadagnare"
   w_author_letting_bundle: "L'autore è che ti permette di impostare il prezzo che dovrai pagare per questo pacchetto Il prezzo consigliato è!"
   w_author_letting_you_set_price_html: "L'autore lascia a te la scelta del prezzo da pagare per questo libro. Il prezzo suggerito è di <strong>%{suggested}</strong> e il prezzo minimo è %{minimum}."
   w_book_dialect: "Dialetto del libro:"
@@ -58,6 +67,8 @@ it:
   w_get_it_free: "Scarica la, gratuitamente!"
   w_get_my_free_book: "Scarica il mio libro gratis"
   w_get_my_free_bundle: "Prendi il mio collezione gratis"
+  w_gift_note: "Nota regalo"
+  w_gift_note_hint: "È possibile inserire una nota da inviare insieme al tuo regalo È possibile lasciare il campo vuoto se lo si desidera."
   w_give_as_a_gift: "Date come regalo!"
   w_grand_total: "Totale complessivo"
   w_if_no_visa_mastercard: "Se la vostra carta di credito non è una Visa o una Mastercard, è ancora possibile acquistare questo libro tramite PayPal. Basta cliccare sul pulsante giallo sopra."
@@ -74,9 +85,6 @@ it:
   w_lang_rus: "russo"
   w_lang_slv: "sloveno"
   w_lang_spa: "spagnolo"
-  w_language:
-    one: "linguaggio"
-    other: "lingue"
   w_language_options: "Lingua opzioni"
   w_language_options_body: "Questo libro è stato tradotto (o è in corso di traduzione) nelle seguenti lingue:"
   w_last_name: "Cognome"
@@ -95,18 +103,19 @@ it:
   w_pay_by_credit_card_or_click_to_html: "pagamento con carta di credito <small class = \" opzione \">or clic per %{paypal}</small>"
   w_percent_done_html: "L'autore ritiene che questo libro possa rappresentare circa il <strong>%{percent_complete}%</strong> completa!"
   w_please_wait: "Attendere prego ..."
+  w_purchase_hint: "È ora possibile acquistare i libri in regalo Leanpub Hai solo bisogno l'indirizzo email di chi si sta dando il libro Il destinatario sarà in grado di scaricare il libro in formato PDF, EPUB e MOBI senza firma fino a Leanpub, e!. saranno anche in grado di iscriversi per ottenere aggiornamenti gratuiti. Fai un regalo sostenibile questa stagione di festa!"
+  w_purchase_is_gift: "Questo acquisto è un regalo"
   w_reader_count: "Questo libro ha  %{num_readers} lettori!"
+  w_recipient_email: "Email Destinatario"
   w_share_book: "Condividi questo libro"
-  w_share_email_with_author:
-    one: "Anche condividere il mio indirizzo e-mail con l'autore."
-    other: "Anche condividere il mio indirizzo e-mail con gli autori."
+  w_share_email: "Condividi E-mail"
   w_suggested_price2: "Prezzo suggerito"
   w_suggested_price: "Prezzo suggerito:"
   w_these_books_included: "Questi libri sono inclusi in questo collezione ..."
   w_toc: "Indice"
   w_total: "Totale"
-  w_tweet_just_bought_text: "Ho appena comprato %{title}"
   w_tweet_just_bought_bundle_text: "Ho appena comprato il pacchetto %{title}"
+  w_tweet_just_bought_text: "Ho appena comprato %{title}"
   w_tweet_text: "Leggi %{title}"
   w_type_own_amount_click: "Fare clic per digitare un importo specifico"
   w_type_own_amount_tap: "Toccare per inserire un importo specifico"
@@ -120,9 +129,3 @@ it:
   w_you_pay: "Tu paghi"
   w_your_account: "Il tuo account"
   w_youre_buying: "Stai comprando"
-  w_purchase_is_gift: "Questo acquisto è un regalo"
-  w_purchase_hint: "È ora possibile acquistare i libri in regalo Leanpub Hai solo bisogno l'indirizzo email di chi si sta dando il libro Il destinatario sarà in grado di scaricare il libro in formato PDF, EPUB e MOBI senza firma fino a Leanpub, e!. saranno anche in grado di iscriversi per ottenere aggiornamenti gratuiti. Fai un regalo sostenibile questa stagione di festa!"
-  w_share_email: "Condividi E-mail"
-  w_recipient_email: "Email Destinatario"
-  w_gift_note: "Nota regalo"
-  w_gift_note_hint: "È possibile inserire una nota da inviare insieme al tuo regalo È possibile lasciare il campo vuoto se lo si desidera."

@@ -5,6 +5,18 @@
 # 2 letter code = sl. 3 letter code = slv.
 ###
 sl:
+  w_author_earns:
+    one: "Avtor zasluži"
+    other: "Avtorji zaslužiti"
+  w_language:
+    one: "jezik"
+    other: "jeziki"
+  w_share_email_with_author:
+    one: "Prav deliti svoj e-poštni naslov avtorja."
+    other: "Tudi deliti svoj e-poštni naslov avtorji sami."
+############################################
+# With plurals above, without plurals below.
+############################################
   w_about_author: "O avtorju"
   w_about_authors: "O avtorjih"
   w_about_book: "O knjigi"
@@ -15,9 +27,6 @@ sl:
   w_also_by_the_editor: "Prav tako jih je urednik"
   w_also_by_the_editors: "Tudi s strani urednikov"
   w_and_min_price: "in minimalna cena"
-  w_author_earns:
-    one: "Avtor zasluži"
-    other: "Avtorji zaslužiti"
   w_author_letting_bundle: "avtor tako da se lahko določi ceno, ki jo boste plačali za to zbirko napovedana cena je!"
   w_author_letting_you_set_price_html: "Avtor vam dopušča, da sami postavite ceno knjige! Priporočena cena je <strong>%{suggested}</strong>, minimalna pa %{minimum}."
   w_book_dialect: "Knjiga Narečje:"
@@ -58,6 +67,8 @@ sl:
   w_get_it_free: "Razumeš, brezplačno!"
   w_get_my_free_book: "Prenesite svoj ​​prosti knjigo"
   w_get_my_free_bundle: "Prenesite svoj ​​prosti snop"
+  w_gift_note: "Gift Opomba"
+  w_gift_note_hint: "Lahko vnesete opombo, da pošlje skupaj s svojim darom lahko pustite prazno, če želite."
   w_give_as_a_gift: "Daj kot darilo!"
   w_grand_total: "Končna cena"
   w_if_no_visa_mastercard: "Če je vaša kreditna kartica ni Visa ali Mastercard, lahko še vedno kupite to knjigo z PayPal. Samo kliknite na rumeno zgornji gumb."
@@ -74,9 +85,6 @@ sl:
   w_lang_rus: "Russian"
   w_lang_slv: "Slovenski"
   w_lang_spa: "španska"
-  w_language:
-    one: "jezik"
-    other: "jeziki"
   w_language_options: "Jezikovne možnosti"
   w_language_options_body: "Ta knjiga je bila prevedena (ali je trenutno preveden) v naslednjih jezikih:"
   w_last_name: "Priimek"
@@ -95,18 +103,19 @@ sl:
   w_pay_by_credit_card_or_click_to_html: "Plačilo s kreditno kartico <small razreda = \" možnost \">or kliknite %{paypal}</small>"
   w_percent_done_html: "The author considers this book to be about <strong>%{percent_complete}%</strong> complete!"
   w_please_wait: "Prosim, počakajte ..."
+  w_purchase_hint: "Sedaj lahko kupite Leanpub knjige kot darilo Potrebuješ samo e-poštni naslov, ki ste daje knjigo bo prejemnik lahko prenesete knjigo v PDF, epub in mobi brez podpisa do Leanpub in!. bodo lahko tudi prijavite za brezplačno posodobitev. Daj trajnostno darilo ta počitniški sezoni! "
+  w_purchase_is_gift: "Ta nakup je darilo"
   w_reader_count: "Število bralcev:  %{num_readers}"
+  w_recipient_email: "Prejemnik e-pošta"
   w_share_book: "Razširite vest"
-  w_share_email_with_author:
-    one: "Prav deliti svoj e-poštni naslov avtorja."
-    other: "Tudi deliti svoj e-poštni naslov avtorji sami."
+  w_share_email: »Share Email"
   w_suggested_price2: "Priporočena cena"
   w_suggested_price: "Priporočena cena:"
   w_these_books_included: "Te knjige vključijo v to zbirko ..."
   w_toc: "Kazalo"
   w_total: "Cena"
-  w_tweet_just_bought_text: "Pravkar sem kupil %{title}"
   w_tweet_just_bought_bundle_text: "Pravkar sem kupil %{title} sveženj"
+  w_tweet_just_bought_text: "Pravkar sem kupil %{title}"
   w_tweet_text: "Preberite %{title}"
   w_type_own_amount_click: "Kliknite, da tip v svoji višini"
   w_type_own_amount_tap: "Dotaknite se, da vpišete svoj lastni vrednosti"
@@ -120,9 +129,3 @@ sl:
   w_you_pay: "Plačali boste"
   w_your_account: "Vaš račun"
   w_youre_buying: "Kupujete"
-  w_purchase_is_gift: "Ta nakup je darilo"
-  w_purchase_hint: "Sedaj lahko kupite Leanpub knjige kot darilo Potrebuješ samo e-poštni naslov, ki ste daje knjigo bo prejemnik lahko prenesete knjigo v PDF, epub in mobi brez podpisa do Leanpub in!. bodo lahko tudi prijavite za brezplačno posodobitev. Daj trajnostno darilo ta počitniški sezoni! "
-  w_share_email: »Share Email"
-  w_recipient_email: "Prejemnik e-pošta"
-  w_gift_note: "Gift Opomba"
-  w_gift_note_hint: "Lahko vnesete opombo, da pošlje skupaj s svojim darom lahko pustite prazno, če želite."

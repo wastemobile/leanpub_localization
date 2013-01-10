@@ -5,6 +5,18 @@
 # 2 letter code = hu. 3 letter code = hun.
 ###
 hu:
+  w_author_earns:
+    one: "a szerző keres"
+    other: "Szerzők nyerjen"
+  w_language:
+    one: "nyelv"
+    other: "nyelvek"
+  w_share_email_with_author:
+    one: "Szintén osztom meg e-mail címét, a szerző."
+    other: "Szintén osztom meg e-mail címét, a szerző."
+############################################
+# With plurals above, without plurals below.
+############################################
   w_about_author: "A Szerzőröl"
   w_about_authors: "A Szerzőkről"
   w_about_book: "A Könyvről"
@@ -15,9 +27,6 @@ hu:
   w_also_by_the_editor: "Szintén az Editor"
   w_also_by_the_editors: "Szintén a szerkesztők"
   w_and_min_price: "és a minimális ár"
-  w_author_earns:
-    one: "a szerző keres"
-    other: "Szerzők nyerjen"
   w_author_letting_bundle: "A szerző bérbeadása beállítja az árat fog fizetni a csomag! Az ajánlott ár"
   w_author_letting_you_set_price_html: "A szerző megengedi hogy te állítsd az árat amit fizetsz a könyvért! A javasolt ár <strong>%{suggested}</strong>, és a minimum ár %{minimum}."
   w_book_dialect: "Könyv Dialect:"
@@ -58,6 +67,8 @@ hu:
   w_get_it_free: "érti ingyen!"
   w_get_my_free_book: "hogy ingyenes könyvem"
   w_get_my_free_bundle: "hogy ingyenes csomag"
+  w_gift_note: "Ajándék Note"
+  w_gift_note_hint: "Megadhat egy üzenetet küldeni együtt a ajándék. hagyhatja üresen, ha akarod."
   w_give_as_a_gift: "Adj egy ajándék!"
   w_grand_total: "Végösszeg"
   w_if_no_visa_mastercard: "Ha a hitelkártya nem Visa vagy Mastercard, akkor is vásárolni ezt a könyvet a PayPal. Csak kattints a sárga gombra."
@@ -74,9 +85,6 @@ hu:
   w_lang_rus: "orosz"
   w_lang_slv: "szlovén"
   w_lang_spa: "spanyol"
-  w_language:
-    one: "nyelv"
-    other: "nyelvek"
   w_language_options: "Nyelvi beállítások"
   w_language_options_body: "Ez a könyv már lefordított (vagy jelenleg folyamatban van lefordítva) a következő nyelven:"
   w_last_name: "Családnév"
@@ -95,18 +103,19 @@ hu:
   w_pay_by_credit_card_or_click_to_html: "hitelkártyával fizetni <small class = \"opció\">or kattintson %{paypal}</small>"
   w_percent_done_html: "A szerző úgy véli, ezt a könyvet, hogy mintegy <strong>%{percent_complete}%</strong>-a teljes!"
   w_please_wait: "Kérem várjon ..."
+  w_purchase_hint: "Most már kapható Leanpub könyveket ajándékba! Csak azt kell, az e-mail címét, akiknek adsz a könyvet. A címzett képes lesz letölteni a könyvet PDF, EPUB és MOBI nélkül aláírásával Leanpub, és ők is tudják, hogy regisztrálj, hogy ingyenes frissítéseket. Adj egy fenntartható ajándék a karácsonyi szezonban!"
+  w_purchase_is_gift: "Ez a vásárlás egy ajándék"
   w_reader_count: "Ennek a könyvnek  %{num_readers} olvasója van!"
+  w_recipient_email: "Címzett e-mail"
   w_share_book: "Oszd meg ezt a könyvet"
-  w_share_email_with_author:
-    one: "Szintén osztom meg e-mail címét, a szerző."
-    other: "Szintén osztom meg e-mail címét, a szerző."
+  w_share_email: "Megosztás E-mail?"
   w_suggested_price2: "Javasolt ár"
   w_suggested_price: "Javasolt ár:"
   w_these_books_included: "Ezek a könyvek tartoznak ebbe a csomag ..."
   w_toc: "Tartalomjegyzék"
   w_total: "Teljes"
-  w_tweet_just_bought_text: "Én most vettem %{title}"
   w_tweet_just_bought_bundle_text: "Én most vettem a %{title} csomag"
+  w_tweet_just_bought_text: "Én most vettem %{title}"
   w_tweet_text: "Read %{title}"
   w_type_own_amount_click: "Kattintson ide írja a saját összeg"
   w_type_own_amount_tap: "Érintse meg, hogy írja be a saját összeg"
@@ -120,9 +129,3 @@ hu:
   w_you_pay: "Fizetsz"
   w_your_account: "Your Account"
   w_youre_buying: "Megveszed"
-  w_purchase_is_gift: "Ez a vásárlás egy ajándék"
-  w_purchase_hint: "Most már kapható Leanpub könyveket ajándékba! Csak azt kell, az e-mail címét, akiknek adsz a könyvet. A címzett képes lesz letölteni a könyvet PDF, EPUB és MOBI nélkül aláírásával Leanpub, és ők is tudják, hogy regisztrálj, hogy ingyenes frissítéseket. Adj egy fenntartható ajándék a karácsonyi szezonban!"
-  w_share_email: "Megosztás E-mail?"
-  w_recipient_email: "Címzett e-mail"
-  w_gift_note: "Ajándék Note"
-  w_gift_note_hint: "Megadhat egy üzenetet küldeni együtt a ajándék. hagyhatja üresen, ha akarod."

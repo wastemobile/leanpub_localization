@@ -5,6 +5,18 @@
 # 2 letter code = de. 3 letter code = ger.
 ###
 de:
+  w_author_earns:
+    one: "Autor verdient"
+    other: "Autoren verdienen"
+  w_language:
+    one: "Sprache"
+    other: "Sprachen"
+  w_share_email_with_author:
+    one: "Teile meine E-Mail-Adresse dem Autor mit."
+    other: "Teile meine E-Mail-Adresse den Autoren mit."
+############################################
+# With plurals above, without plurals below.
+############################################
   w_about_author: "Über den Autor"
   w_about_authors: "Über die Autoren"
   w_about_book: "Über dieses Buch"
@@ -15,9 +27,6 @@ de:
   w_also_by_the_editor: "Auch vom Editor"
   w_also_by_the_editors: "Auch von den Editoren"
   w_and_min_price: "und der Mindestpreis ist"
-  w_author_earns:
-    one: "Autor verdient"
-    other: "Autoren verdienen"
   w_author_letting_bundle: "Der Autor überlässt dir die Wahl des Preises, den du für dieses Paket zu bezahlen bereit bist. Der vorgeschlagene Preis ist"
   w_author_letting_you_set_price_html: "Der Autor überlässt dir, wieviel du für dieses Buch bezahlen möchtest. Der vorgeschlagene Preis ist %{suggested}, der Minimalpreis %{minimum}."
   w_book_dialect: "Dieses Buch ist im folgenden Dialekt geschrieben:"
@@ -58,6 +67,8 @@ de:
   w_get_it_free: "Erhalte es kostenlos!"
   w_get_my_free_book: "Erhalte mein kostenloses Buch"
   w_get_my_free_bundle: "Erhalten mein kostenloses Paket"
+  w_gift_note: "Geschenkmitteilung"
+  w_gift_note_hint: "Du kannst eine Notiz zusammen mit dem Geschenk versenden. Oder aber einfach dieses Feld leer lassen, wenn du es wünscht."
   w_give_as_a_gift: "Verschenken!"
   w_grand_total: "Gesamt"
   w_if_no_visa_mastercard: "Wenn deine Kreditkarte keine Visa oder Mastercard ist, kannst du das Buch trotzdem per Paypal kaufen. Klicke hierfür oben auf den gelben Button."
@@ -74,9 +85,6 @@ de:
   w_lang_rus: "Russisch"
   w_lang_slv: "Slowenisch"
   w_lang_spa: "Spanisch"
-  w_language:
-    one: "Sprache"
-    other: "Sprachen"
   w_language_options: "Sprachoptionen"
   w_language_options_body: "Dieses Buch wird derzeit oder wurde bereits in die folgenden Sprachen übersetzt:"
   w_last_name: "Nachname"
@@ -95,11 +103,12 @@ de:
   w_pay_by_credit_card_or_click_to_html: "Per Kreditkarte bezahlen <small class = \" Option \">oder %{paypal}</small>"
   w_percent_done_html: "Der Autor betrachtet dieses Buch zu etwa <strong>%{percent_complete}%</strong> abgeschlossen!"
   w_please_wait: "Bitte warten ..."
+  w_purchase_hint: "Leanpub Bücher können nun als Geschenke gekauft werden! Lediglich die E-Mail-Adresse des Beschenken ist notwendig. Die Person kann das Buch dann als PDF, EPUB and MOBI herunterladen, ohne sich bei Leanpub anzumelden. Alle kostenlosen Updates werden ebenfalls verfügbar gemacht. Verschenke ein nachhaltiges Produkt!"
+  w_purchase_is_gift: "Dieser Kauf ist ein Geschenk"
   w_reader_count: "Dieses Buch hat %{num_readers} Leser."
+  w_recipient_email: "Empfänger E-Mail"
   w_share_book: "Teile dieses Buch"
-  w_share_email_with_author:
-    one: "Teile meine E-Mail-Adresse dem Autor mit."
-    other: "Teile meine E-Mail-Adresse den Autoren mit."
+  w_share_email: "E-Mail weitergeben?"
   w_suggested_price2: "Empfohlener Preis"
   w_suggested_price: "Empfohlener Preis:"
   w_these_books_included: "Diese Bücher sind in dem Paket enthalten ..."
@@ -120,9 +129,3 @@ de:
   w_you_pay: "Du zahlst"
   w_your_account: "Dein Konto"
   w_youre_buying: "Du kaufst"
-  w_purchase_is_gift: "Dieser Kauf ist ein Geschenk"
-  w_purchase_hint: "Leanpub Bücher können nun als Geschenke gekauft werden! Lediglich die E-Mail-Adresse des Beschenken ist notwendig. Die Person kann das Buch dann als PDF, EPUB and MOBI herunterladen, ohne sich bei Leanpub anzumelden. Alle kostenlosen Updates werden ebenfalls verfügbar gemacht. Verschenke ein nachhaltiges Produkt!"
-  w_share_email: "E-Mail weitergeben?"
-  w_recipient_email: "Empfänger E-Mail"
-  w_gift_note: "Geschenkmitteilung"
-  w_gift_note_hint: "Du kannst eine Notiz zusammen mit dem Geschenk versenden. Oder aber einfach dieses Feld leer lassen, wenn du es wünscht."
