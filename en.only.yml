@@ -815,6 +815,7 @@ en:
   w_public_page: "Public Page"
   w_publish: "Publish"
   w_publish_book: "Publish - %{book}"
+  w_generate_indesign: "Generate Indesign for %{book}"
   w_publish_early_feedback: "Publish early to get feedback."
   w_publish_early_publish_often: "Publish Early, Publish Often"
   w_publish_first_time_message: "When you publish your book for the first time, we will email the prospective readers that signed up to be notified when your book was published. You may optionally include a personal message to them below."
