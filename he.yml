@@ -1,10 +1,10 @@
 ###
 # Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
 #
-# English
-# 2 letter code = en. 3 letter code = eng.
+# Hebrew
+# 2 letter code = he. 3 letter code = heb.
 ###
-en:
+he:
   w_author_earns:
     one: "Author earns"
     other: "Authors earn"
@@ -151,10 +151,11 @@ en:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "This book is for sale at \url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_published_on: "This version was published on %{published_on}"
-  p_toc: "Table of Contents"
+
+  p_book_for_sale_at: "הספר הזה מוצע למכירה ב: \url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "הספר הזה מוצע למכירה ב: <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_published_on: "הגירסה הזו פורסמה בתאריך %{published_on}"
+  p_toc: "תוכן העניינים"
   p_isbn_for: "ISBN for %{format} version"
   p_tweet_this_book: "Tweet This Book!"
   p_tweet_spread_word: "Please help %{author} by spreading the word about this book on \href{http://twitter.com}{Twitter}!"
@@ -164,4 +165,3 @@ en:
   p_also_by_multi_authors_title: "Also By These Authors"
   p_also_by_multi_authors_item: "Books by \href{http://leanpub.com/u/%{username}}{%{name}}}"
   p_also_by_single_author_title: "Also By \href{http://leanpub.com/u/%{username}}{%{name}}"
-
