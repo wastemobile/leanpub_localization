@@ -132,6 +132,7 @@ ro:
   w_purchase_is_gift: "Această achiziție este un cadou"
   w_reader_count: "Această carte are  %{num_readers} de cititori!"
   w_recipient_email: "E-mail destinatar"
+  w_retired: "Retired"
   w_share_book: "Împărtășește această carte"
   w_share_email: "? Email Share"
   w_suggested_price2: "Preț recomandat"

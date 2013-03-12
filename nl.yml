@@ -128,6 +128,7 @@ nl:
   w_purchase_is_gift: "Deze aankoop is een geschenk"
   w_reader_count: "Dit boek heeft %{num_readers} lezers!"
   w_recipient_email: "E-mail Ontvanger"
+  w_retired: "Retired"
   w_share_book: "Deel dit boek"
   w_share_email: "Delen E-mail?"
   w_suggested_price2: "Voorgestelde Prijs"

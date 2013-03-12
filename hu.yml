@@ -128,6 +128,7 @@ hu:
   w_purchase_is_gift: "Ez a vásárlás egy ajándék"
   w_reader_count: "Ennek a könyvnek  %{num_readers} olvasója van!"
   w_recipient_email: "Címzett e-mail"
+  w_retired: "Retired"
   w_share_book: "Oszd meg ezt a könyvet"
   w_share_email: "Megosztás E-mail?"
   w_suggested_price2: "Javasolt ár"

@@ -132,6 +132,7 @@ sl:
   w_purchase_is_gift: "Ta nakup je darilo"
   w_reader_count: "Število bralcev:  %{num_readers}"
   w_recipient_email: "Prejemnik e-pošta"
+  w_retired: "Retired"
   w_share_book: "Razširite vest"
   w_share_email: »Share Email"
   w_suggested_price2: "Priporočena cena"

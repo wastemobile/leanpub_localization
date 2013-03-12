@@ -128,6 +128,7 @@ ja:
   w_purchase_is_gift: "この購入は贈り物です"
   w_reader_count: "この書籍には %{num_readers}人の読者がいます！"
   w_recipient_email: "受信者のメールアドレス"
+  w_retired: "Retired"
   w_share_book: "この本をシェアする"
   w_share_email: "？シェアする電子メール"
   w_suggested_price2: "推奨価格"

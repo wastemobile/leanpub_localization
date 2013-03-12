@@ -119,6 +119,7 @@ es:
   w_purchase_is_gift: "Esta compra es un regalo"
   w_reader_count: "¡Este libro tiene %{num_readers} lectores!"
   w_recipient_email: "Correo electrónico del destinatario"
+  w_retired: "Retired"
   w_share_book: "Comparta este libro"
   w_share_email: "Compartir Correo electrónico"
   w_suggested_price2: "El precio sugerido"

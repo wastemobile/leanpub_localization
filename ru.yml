@@ -136,6 +136,7 @@ ru:
   w_purchase_is_gift: "Это приобретение является подарком"
   w_reader_count: "У этой книги  %{num_readers} читателей!"
   w_recipient_email: "Адрес электронной почты получателя"
+  w_retired: "Retired"
   w_share_book: "Поделиться информацией о книге"
   w_share_email: "Share Отправить"
   w_suggested_price2: "Предлагаемая цена"
