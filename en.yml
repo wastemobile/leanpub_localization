@@ -5,6 +5,9 @@
 # 2 letter code = en. 3 letter code = eng.
 ###
 en:
+  support:
+    array:
+      last_word_connector: " and " # Used in to_sentence
   w_author_earns:
     one: "Author earns"
     other: "Authors earn"
@@ -25,6 +28,9 @@ en:
   w_about_book: "About the Book"
   w_about_editor: "About the Editor"
   w_about_editors: "About the Editors"
+  w_about_the_contributors: "About the Contributors"
+  w_about_the_publisher: "About the Publisher"
+  w_also_by: "Also by"
   w_also_by_the_author: "Also by the Author"
   w_also_by_the_authors: "Also by the Authors"
   w_also_by_the_editor: "Also by the Editor"
